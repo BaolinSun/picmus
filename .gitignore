@@ -1,0 +1,12 @@
+.vscode
+**/__pycache__
+**.pth
+logs/
+results/
+temps/
+datasets/
+checkpoints/
+some/
+runs/
+/data
+database/
